@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gaurav 👋  <br><br>Java Developer at Sofrego Private Limited, working on backend application development.  <br>I build and maintain RESTful APIs using Java and Spring Boot, and work with relational databases to deliver scalable solutions.<br><br>🔹 Tech Stack: Java, Spring Boot, Hibernate, REST APIs, MySQL, PostgreSQL  <br>🔹 Focus Areas: Backend Development, API Design, Clean Code  <br>🔹 Currently working on: Enhancing backend performance and building production-ready features  <br><br>
+Hi, I'm Gaurav 👋  <br><br>Java Backend Developer  <br>I build and maintain RESTful APIs using Java and Spring Boot, and work with relational databases to deliver scalable solutions.<br><br>🔹 Tech Stack: Java, Spring Boot, Hibernate, REST APIs, MySQL, PostgreSQL  <br>🔹 Focus Areas: Backend Development, API Design, Clean Code  <br>🔹 Currently working on: Enhancing backend performance and building production-ready features  <br><br>
 
 
 ## 🌐 Socials:
